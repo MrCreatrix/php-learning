@@ -79,7 +79,7 @@ $json = json_decode($str, true); ?>
 
         <?php
 
-		$apiKey = "ba5a3176bd5273cba6157609e3affb1a";
+		$apiKey = "api key";
 		$cityId = "";
 
 
